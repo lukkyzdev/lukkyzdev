@@ -1,4 +1,4 @@
-## 💻 Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!💻🤖
+## 💻 Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!🤖
 
 - 📓 Atualmente estudando:
  Frontend - HTML, CSS, Javascript, Typescript 📝
@@ -23,7 +23,7 @@ Desenvolvedor FullStack 🧠
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev)](https://github.com/lukkyzdev/github-readme-stats$theme=graywhite)
 
-![LukkyzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&theme=graywhite) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&theme=graywhite) 
 
 <div
  <a href = "mailto:lucasfds995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
