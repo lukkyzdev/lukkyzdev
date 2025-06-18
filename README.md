@@ -1,5 +1,5 @@
 ### Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!💻🤖
-
+---
 - 📓 Atualmente estudando:
  Frontend - HTML, CSS, Javascript, Typescript 📝
 - 👾 Objetivo:
