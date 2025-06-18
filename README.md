@@ -1,16 +1,30 @@
-## Hi there 👋
+## Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!💻🤖
 
-<!--
-**LukkyzDev/lukkyzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![LukkyzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev)](https://github.com/lukkyzdev/github-readme-stats$theme=graywhite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Fontes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fontes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Fontes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fontes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fontes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fontes-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Fontes-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Fontes-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</div>
+
+---
+- 📓 Atualmente estudando:
+ Frontend - HTML, CSS, Javascript, Typescript 📝
+- 👾 Objetivo:
+Desenvolvedor FullStack 🧠
+
+#### Sobre Mim
+- Atualmente tenho 18 anos, curso faculdade de ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, maioria das vezes no canto dele, porém sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático. Possuo um pouco de facilidade de trabalhar em equipe, além de ter um bom planejamento e um bom raciocínio em situações que exigem atenção, sou bastante ágil em uso de tecnologias, pois desde de criança sou acostumado com a tecnologia, aperfeiçoando cada vez mais as minhas habilidades, mesmo nos dias atuais.
+---
+<div
+ <a href = "mailto:lucasfds995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-fontes-28647933b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
