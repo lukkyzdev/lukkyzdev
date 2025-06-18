@@ -1,8 +1,12 @@
 ## Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!💻🤖
-
 ---
+- 📓 Atualmente estudando:
+ Frontend - HTML, CSS, Javascript, Typescript 📝
+- 👾 Objetivo:
+Desenvolvedor FullStack 🧠
 
-![LukkyzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&theme=graywhite) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev)](https://github.com/lukkyzdev/github-readme-stats$theme=graywhite)
+#### Sobre Mim
+- Atualmente tenho 18 anos, curso faculdade de ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, maioria das vezes no canto dele, porém sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático. Possuo um pouco de facilidade de trabalhar em equipe, além de ter um bom planejamento e um bom raciocínio em situações que exigem atenção, sou bastante ágil em uso de tecnologias, pois desde de criança sou acostumado com a tecnologia, aperfeiçoando cada vez mais as minhas habilidades, mesmo nos dias atuais.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fontes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,14 +20,13 @@
 </div>
 
 ---
-- 📓 Atualmente estudando:
- Frontend - HTML, CSS, Javascript, Typescript 📝
-- 👾 Objetivo:
-Desenvolvedor FullStack 🧠
 
-#### Sobre Mim
-- Atualmente tenho 18 anos, curso faculdade de ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, maioria das vezes no canto dele, porém sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático. Possuo um pouco de facilidade de trabalhar em equipe, além de ter um bom planejamento e um bom raciocínio em situações que exigem atenção, sou bastante ágil em uso de tecnologias, pois desde de criança sou acostumado com a tecnologia, aperfeiçoando cada vez mais as minhas habilidades, mesmo nos dias atuais.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev)](https://github.com/lukkyzdev/github-readme-stats$theme=graywhite)
+
+![LukkyzDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&theme=graywhite) 
+
 ---
+
 <div
  <a href = "mailto:lucasfds995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-fontes-28647933b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
