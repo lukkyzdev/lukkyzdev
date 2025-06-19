@@ -21,9 +21,10 @@ Desenvolvedor FullStack 🧠
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev)](https://github.com/lukkyzdev/github-readme-stats$theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&title_color=800000&text_color=000000&border_color=800000&border_radius=3)](https://github.com/lukkyzdev/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&theme=graywhite) 
+#### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&hide_title=true&theme=graywhite&text_color=000000&border_color=800000&border_radius=3) 
 
 <div
  <a href = "mailto:lucasfds995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -36,3 +37,4 @@ Desenvolvedor FullStack 🧠
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake.svg">
 </picture>
+
