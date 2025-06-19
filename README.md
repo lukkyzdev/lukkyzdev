@@ -21,7 +21,8 @@ Desenvolvedor FullStack 🧠
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&title_color=800000&text_color=000000&border_color=800000&border_radius=3)](https://github.com/lukkyzdev/github-readme-stats)  <img align="right" alt="" height="250px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJidnkxYWw0OTRpbXFpZmJ4MzZyeTAwOW1tc20wMm00Y3A0dzhlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZBythhSiZAoYea6vC2/giphy.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&title_color=800000&text_color=000000&border_color=800000&border_radius=3)](https://github.com/lukkyzdev/github-readme-stats)  
+<img align="right" alt="" height="210px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJidnkxYWw0OTRpbXFpZmJ4MzZyeTAwOW1tc20wMm00Y3A0dzhlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZBythhSiZAoYea6vC2/giphy.gif">
 
 
 
