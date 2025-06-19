@@ -21,7 +21,9 @@ Desenvolvedor FullStack 🧠
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&title_color=800000&text_color=000000&border_color=800000&border_radius=3)](https://github.com/lukkyzdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&title_color=800000&text_color=000000&border_color=800000&border_radius=3)](https://github.com/lukkyzdev/github-readme-stats)  <img align="right" alt="" height="310px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJidnkxYWw0OTRpbXFpZmJ4MzZyeTAwOW1tc20wMm00Y3A0dzhlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZBythhSiZAoYea6vC2/giphy.gif">
+
+
 
 #### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&hide_title=true&theme=graywhite&text_color=000000&border_color=800000&border_radius=3) 
@@ -32,9 +34,9 @@ Desenvolvedor FullStack 🧠
 </div>
 
 ---
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake.svg">
 </picture>
-
