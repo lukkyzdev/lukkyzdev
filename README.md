@@ -1,11 +1,11 @@
 ## 💻 Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!🤖
 
-- 📓 Atualmente estudando:
- Frontend - HTML, CSS, Javascript, Typescript 📝
-- 👾 Objetivo:
+- 📓 **Atualmente estudando:**
+Python, HTML, CSS, Javascript, Typescript 📝
+- 👾 **Objetivo:**
 Desenvolvedor FullStack 🧠
 ---
-#### Sobre Mim
+### Sobre Mim
 - Atualmente tenho 18 anos, curso faculdade de ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, maioria das vezes no canto dele, porém sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático. Possuo um pouco de facilidade de trabalhar em equipe, além de ter um bom planejamento e um bom raciocínio em situações que exigem atenção, sou bastante ágil em uso de tecnologias, pois desde de criança sou acostumado com a tecnologia, aperfeiçoando cada vez mais as minhas habilidades, mesmo nos dias atuais.
 
 <div style="display: inline_block"><br>
@@ -20,13 +20,14 @@ Desenvolvedor FullStack 🧠
 </div>
 
 ---
+### 🎲 Estatísticas do GitHub 🎰
+- **Linguagens Mais Usadas**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&title_color=800000&text_color=000000&border_color=800000&border_radius=3)](https://github.com/lukkyzdev/github-readme-stats)  
 <img align="right" alt="" height="225px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJidnkxYWw0OTRpbXFpZmJ4MzZyeTAwOW1tc20wMm00Y3A0dzhlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZBythhSiZAoYea6vC2/giphy.gif">
 
+- **Estrelas, Commits e Contribuições**
 
-
-#### GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&hide_title=true&theme=graywhite&text_color=000000&border_color=800000&border_radius=3) 
 
 <div
