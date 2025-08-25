@@ -1,7 +1,7 @@
 ## 💻 Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!🤖
 
 - 📓 **Atualmente estudando:**
-Python, HTML, CSS, Javascript, Typescript 📝
+Python, HTML, CSS, Javascript, Typescript, C# 📝
 - ✅ **Objetivo Profissional:**
 Desenvolvedor FullStack 🧠
 ---
