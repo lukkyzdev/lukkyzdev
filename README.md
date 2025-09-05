@@ -1,12 +1,12 @@
 ## 💻 Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!🤖
 
 - 📝 **Atualmente estudando:**
-Python, HTML, CSS, Javascript, Typescript, C#
+Python, Javascript, Typescript. (Futuros: C#, C++, Ruby)
 - ✅ **Objetivo Profissional:**
 Desenvolvedor FullStack
 ---
 ### 🧠 Sobre Mim 👤
-- Atualmente tenho 18 anos, curso faculdade de ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, maioria das vezes no canto dele, porém sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático. Possuo um pouco de facilidade de trabalhar em equipe, além de ter um bom planejamento e um bom raciocínio em situações que exigem atenção, sou bastante ágil em uso de tecnologias, pois desde de criança sou acostumado com a tecnologia, aperfeiçoando cada vez mais as minhas habilidades, mesmo nos dias atuais.
+- Atualmente tenho 18 anos, curso faculdade de ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo um pouco de facilidade de trabalhar em equipe, além de ter um bom planejamento e um bom raciocínio em situações que exigem atenção, sou bastante ágil em uso de tecnologias, pois desde de criança sou acostumado com a tecnologia, aperfeiçoando cada vez mais as minhas habilidades.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fontes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
