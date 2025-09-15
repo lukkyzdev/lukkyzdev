@@ -41,8 +41,9 @@ Desenvolvedor FullStack
 </picture>
 
 ---
-### 📫 Contatos 👇
-<div
- <a href = "mailto:lucasfds995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-fontes-28647933b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 📬 Contatos 👇
+<div>
+  <a href="mailto:lucasfds995@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-fontes-28647933b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
