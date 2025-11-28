@@ -3,7 +3,7 @@
 - 📝 **Atualmente estudando:**
 Python, SQL e MySQL. (Futuros: Java, Javascript, Typescript)
 - ✅ **Objetivo Profissional:**
-Desenvolvedor FullStack
+Engenheiro de Dados
 ---
 ### 👨‍💻 Sobre Mim 📚
 - Atualmente tenho 18 anos, estou no 2º semestre cursando faculdade em ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo facilidade de trabalhar em equipe, além de ter um bom planejamento e raciocínio em situações que exigem atenção, sou bastante ágil em tecnologias e atento a atualizações.
