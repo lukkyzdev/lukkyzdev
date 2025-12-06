@@ -22,12 +22,12 @@ Engenheiro de Dados
 ### 🎲 Estatísticas do GitHub 🎰
 - **Linguagens Mais Usadas**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&layout=compact&title_color=800000&text_color=000000&border_color=800000&border_radius=3&hide_bg=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&layout=compact&hide_title=true&hide_border=true)
 <img align="right" alt="GIF de um programador em um computador" height="225px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJidnkxYWw0OTRpbXFpZmJ4MzZyeTAwOW1tc20wMm00Y3A0dzhlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZBythhSiZAoYea6vC2/giphy.gif">
 
 - **Estrelas, Commits e Contribuições**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&hide_title=true&text_color=000000&border_color=800000&border_radius=3&hide_bg=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkyzdev&show_icons=true&hide_title=true&hide_border=true) 
 
 ---
 ### 👾 Meus Commits 🐍
