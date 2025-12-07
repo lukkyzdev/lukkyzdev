@@ -8,6 +8,15 @@ Engenheiro de Dados
 ### 👨‍💻 Sobre Mim 📚
 - Atualmente tenho 18 anos, estou no 2º semestre cursando faculdade em ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo facilidade de trabalhar em equipe, além de ter um bom planejamento e raciocínio em situações que exigem atenção, sou bastante ágil em tecnologias e atento a atualizações.
 
+---
+### Estatísticas do GitHub 🎰
+
+<p align="center">
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=lukkyzdev&theme=gotham&hide_border=false" />
+</div>
+ㅤ
+ㅤ
 <div style="display: inline-block;">
     <img align="center" alt="Fontes-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp; <img align="center" alt="Fontes-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
@@ -15,14 +24,6 @@ Engenheiro de Dados
     &nbsp;&nbsp; <img align="center" alt="Fontes-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     &nbsp;&nbsp; <img align="center" alt="Fontes-Airflow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
     &nbsp;&nbsp; <img align="center" alt="Fontes-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
-</div>
-
----
-### Estatísticas do GitHub 🎰
-
-<p align="center">
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=lukkyzdev&theme=gotham&hide_border=false" />
 </div>
 
 ---
