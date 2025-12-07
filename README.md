@@ -8,14 +8,13 @@ Engenheiro de Dados
 ### 👨‍💻 Sobre Mim 📚
 - Atualmente tenho 18 anos, estou no 2º semestre cursando faculdade em ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo facilidade de trabalhar em equipe, além de ter um bom planejamento e raciocínio em situações que exigem atenção, sou bastante ágil em tecnologias e atento a atualizações.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fontes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fontes-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fontes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fontes-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Fontes-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Fontes-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Fontes-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<div style="display: inline-block;">
+    <img align="center" alt="Fontes-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    &nbsp;&nbsp; <img align="center" alt="Fontes-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+    &nbsp;&nbsp; <img align="center" alt="Fontes-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+    &nbsp;&nbsp; <img align="center" alt="Fontes-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+    &nbsp;&nbsp; <img align="center" alt="Fontes-Airflow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
+    &nbsp;&nbsp; <img align="center" alt="Fontes-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
 </div>
 
 ---
