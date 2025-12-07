@@ -1,6 +1,6 @@
 ## 💻 Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!🤖
 
-- 📝 **Atualmente estudando:**
+- 📝 **Estudando:**
 Python, SQL e MySQL. (Futuros: PySpark, Snowflake/StarChema, AWS/GCP, AirFlow, Docker)
 - ✅ **Objetivo Profissional:**
 Engenheiro de Dados
