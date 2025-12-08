@@ -1,15 +1,20 @@
-## 💻 Olá, eu sou o Lucas Fontes, e seja bem-vindo ao meu perfil aqui no GitHub!🤖
+# *𝑶𝒍𝒂́, 𝒆𝒖 𝒔𝒐𝒖 𝒐 𝑳𝒖𝒄𝒂𝒔 𝑭𝒐𝒏𝒕𝒆𝒔,*
+*𝒆 𝒔𝒆𝒋𝒂 𝒃𝒆𝒎-𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 𝒂𝒒𝒖𝒊 𝒏𝒐 𝑮𝒊𝒕𝑯𝒖𝒃!* 👨‍💻
 
-- 📝 **Estudando:**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/main/images/batmansignal.gif" alt="batmans signal" width="900">
+</div>
+
+---
+### 𝑺𝒐𝒃𝒓𝒆 𝑴𝒊𝒎 👤
+> Atualmente tenho 18 anos, estou no 3º semestre cursando faculdade em ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo facilidade de trabalhar em equipe, além de ter um bom planejamento e raciocínio em situações que exigem atenção, sou bastante ágil em tecnologias e atento a atualizações.
+
+- 📝 *𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒅𝒐 -*
 Python, SQL e MySQL. (Futuros: PySpark, Snowflake/StarChema, AWS/GCP, AirFlow, Docker)
-- ✅ **Objetivo Profissional:**
+- ✅ *𝑶𝒃𝒋𝒆𝒕𝒊𝒗𝒐 𝑷𝒓𝒐𝒇𝒊𝒔𝒔𝒊𝒐𝒏𝒂𝒍 -*
 Engenheiro de Dados
 ---
-### 👨‍💻 Sobre Mim 📚
-- Atualmente tenho 18 anos, estou no 2º semestre cursando faculdade em ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo facilidade de trabalhar em equipe, além de ter um bom planejamento e raciocínio em situações que exigem atenção, sou bastante ágil em tecnologias e atento a atualizações.
-
----
-### Estatísticas do GitHub 🎰
+### *𝑬𝒔𝒕𝒂𝒕𝒊́𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
 
 <p align="center">
 <div style="display: flex; gap: 10px; justify-content: center;">
@@ -27,9 +32,7 @@ Engenheiro de Dados
 </div>
 
 ---
-### 👾 Meus Commits 🐍
-**(GitHub Personal Commits)**
-
+### *𝑮𝒊𝒕𝒉𝒖𝒃 𝑷𝒆𝒓𝒔𝒐𝒏𝒂𝒍 𝑪𝒐𝒎𝒎𝒊𝒕𝒔* 🐍
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake-dark.svg">
@@ -37,7 +40,7 @@ Engenheiro de Dados
 </picture>
 
 ---
-### 📬 Contatos 👇
+### 𝑪𝒐𝒏𝒕𝒂𝒕𝒐𝒔 📬
 <div>
   <a href="mailto:lucasfds995@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-fontes-28647933b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
