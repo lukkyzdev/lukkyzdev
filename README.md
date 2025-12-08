@@ -2,7 +2,7 @@
 *𝒆 𝒔𝒆𝒋𝒂 𝒃𝒆𝒎-𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 𝒂𝒒𝒖𝒊 𝒏𝒐 𝑮𝒊𝒕𝑯𝒖𝒃!* 👨‍💻
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/main/images/batmansignal.gif" alt="batmans signal" width="700">
+  <img src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/main/images/batmansignal.gif" alt="batmans signal" width="500">
 </div>
 
 ---
