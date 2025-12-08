@@ -1,4 +1,4 @@
-# *𝑶𝒍𝒂́, 𝒆𝒖 𝒔𝒐𝒖 𝒐 𝑳𝒖𝒄𝒂𝒔 𝑭𝒐𝒏𝒕𝒆𝒔,*
+# *𝑶𝒍𝒂, 𝒆𝒖 𝒔𝒐𝒖 𝒐 𝑳𝒖𝒄𝒂𝒔 𝑭𝒐𝒏𝒕𝒆𝒔,*
 *𝒆 𝒔𝒆𝒋𝒂 𝒃𝒆𝒎-𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 𝒂𝒒𝒖𝒊 𝒏𝒐 𝑮𝒊𝒕𝑯𝒖𝒃!* 👨‍💻
 
 <div align="center">
@@ -14,7 +14,7 @@ Python, SQL e MySQL. (Futuros: PySpark, Snowflake/StarChema, AWS/GCP, AirFlow, D
 - ✅ *𝑶𝒃𝒋𝒆𝒕𝒊𝒗𝒐 𝑷𝒓𝒐𝒇𝒊𝒔𝒔𝒊𝒐𝒏𝒂𝒍 -*
 Engenheiro de Dados
 ---
-### *𝑬𝒔𝒕𝒂𝒕𝒊́𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
+### *𝑬𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
 
 <p align="center">
 <div style="display: flex; gap: 10px; justify-content: center;">
