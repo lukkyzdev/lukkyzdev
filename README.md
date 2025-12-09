@@ -6,13 +6,20 @@
 </div>
 
 ---
-### 𝑺𝒐𝒃𝒓𝒆 𝑴𝒊𝒎 👤
+### 𝑺𝒐𝒃𝒓𝒆 𝑴𝒊𝒎 👤 
 > Atualmente tenho 18 anos, estou no 3º semestre cursando faculdade em ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo facilidade de trabalhar em equipe, além de ter um bom planejamento e raciocínio em situações que exigem atenção, sou bastante ágil em tecnologias e atento a atualizações.
 
 - 📝 *𝑬𝒔𝒕𝒖𝒅𝒂𝒏𝒅𝒐 -*
 Python, SQL e MySQL. (Futuros: PySpark, Snowflake/StarChema, AWS/GCP, AirFlow, Docker)
 - ✅ *𝑶𝒃𝒋𝒆𝒕𝒊𝒗𝒐 𝑷𝒓𝒐𝒇𝒊𝒔𝒔𝒊𝒐𝒏𝒂𝒍 -*
 Engenheiro de Dados
+
+<p align="left">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=lukkyzdev&repo=lukkyzdev&countColor=%2F4F4F" />
+   </a>
+</p>
+
 ---
 ### *𝑬𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
 
