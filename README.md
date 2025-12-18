@@ -27,8 +27,10 @@ Engenheiro de Dados
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=lukkyzdev&theme=gotham&hide_border=false" />
 </div>
-ㅤ
-ㅤ
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&theme=gotham&hide_border=false&layout=compact" />
+</p>
+
 <div style="display: inline-block;">
     <img align="center" alt="Fontes-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp; <img align="center" alt="Fontes-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
