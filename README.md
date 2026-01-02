@@ -28,8 +28,8 @@ Engenheiro de Dados
   <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=lukkyzdev&theme=gotham&hide_border=false" />
 </div>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&theme=gotham&hide_border=false&layout=compact" />
-</p>
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&theme=gotham&hide_border=false&layout=compact" />
+</p> -->
 
 <div style="display: inline-block;">
     <img align="center" alt="Fontes-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
