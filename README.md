@@ -32,12 +32,17 @@ Engenheiro de Dados
 </div>
 ㅤ
 
+*(Python, SQL e MySQL)*
+
 - *𝑷𝒓𝒆𝒕𝒆𝒏𝒅𝒐 𝒖𝒕𝒊𝒍𝒊𝒛𝒂𝒓 𝒆 𝒂𝒑𝒓𝒆𝒏𝒅𝒆𝒓 :*
 <div style="display: inline-block;">
     &nbsp;&nbsp; <img align="center" alt="Fontes-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
     &nbsp;&nbsp; <img align="center" alt="Fontes-Airflow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
     &nbsp;&nbsp; <img align="center" alt="Fontes-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
 </div>
+ㅤ
+
+*(AWS, Apache Airflow, Docker)*
 
 ---
 ### *𝑬𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
