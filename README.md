@@ -2,10 +2,9 @@
 *𝒆 𝒔𝒆𝒋𝒂 𝒃𝒆𝒎-𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 𝒂𝒒𝒖𝒊 𝒏𝒐 𝑮𝒊𝒕𝑯𝒖𝒃!* 👨‍💻
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/main/images/batmansignal.gif" alt="batmans signal" width="600">
+  <img src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/main/images/batmansignal.gif" alt="batmans signal" width="700">
 </div>
 
----
 ### 𝑶 𝒒𝒖𝒆 𝒊𝒓𝒂́ 𝒆𝒏𝒄𝒐𝒏𝒕𝒓𝒂𝒓 𝒂𝒒𝒖𝒊?
 > Aqui no meu perfil do github, você irá encontrar todos os projetos já concluídos que eu fiz, além de informações
 da minha carreira e trajetória com dados!
