@@ -6,7 +6,7 @@
 </div>
 
 ---
-### 𝑶 𝒒𝒖𝒆 𝒊𝒓𝒂́ 𝒆𝒏𝒄𝒐𝒏𝒕𝒓𝒂𝒓 𝒂𝒒𝒖𝒊?
+### 𝑶 𝒒𝒖𝒆 𝒊𝒓𝒂 𝒆𝒏𝒄𝒐𝒏𝒕𝒓𝒂𝒓 𝒂𝒒𝒖𝒊?
 > Aqui no meu perfil do github, você irá encontrar todos os projetos já concluídos que eu fiz (na sessão repositories logo acima), além de informações
 da minha carreira e trajetória com dados!
 
@@ -28,21 +28,19 @@ Engenheiro de Dados
 <div style="display: inline-block;">
     <img align="center" alt="Fontes-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp; <img align="center" alt="Fontes-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-    &nbsp;&nbsp; <img align="center" alt="Fontes-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
 ㅤ
 
-*(Python, SQL e MySQL)*
+*(Python, SQL)*
 
 - *𝑷𝒓𝒆𝒕𝒆𝒏𝒅𝒐 𝒖𝒕𝒊𝒍𝒊𝒛𝒂𝒓 𝒆 𝒂𝒑𝒓𝒆𝒏𝒅𝒆𝒓 :*
 <div style="display: inline-block;">
-    &nbsp;&nbsp; <img align="center" alt="Fontes-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-    &nbsp;&nbsp; <img align="center" alt="Fontes-Airflow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg">
-    &nbsp;&nbsp; <img align="center" alt="Fontes-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">
+     &nbsp;&nbsp; <img align="center" alt="Fontes-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+     &nbsp;&nbsp; <img align="center" alt="Fontes-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 ㅤ
 
-*(AWS, Apache Airflow, Docker)*
+*(Java, AWS,)*
 
 ---
 ### *𝑬𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
