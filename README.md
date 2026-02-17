@@ -28,19 +28,19 @@ Engenheiro de Dados
 <div style="display: inline-block;">
     <img align="center" alt="Fontes-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp; <img align="center" alt="Fontes-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+    &nbsp;&nbsp; <img align="center" alt="Fontes-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
 </div>
 ㅤ
 
-*(Python, SQL)*
+*(Python, SQL, Java)*
 
 - *𝑷𝒓𝒆𝒕𝒆𝒏𝒅𝒐 𝒖𝒕𝒊𝒍𝒊𝒛𝒂𝒓 𝒆 𝒂𝒑𝒓𝒆𝒏𝒅𝒆𝒓 :*
 <div style="display: inline-block;">
-     &nbsp;&nbsp; <img align="center" alt="Fontes-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
      &nbsp;&nbsp; <img align="center" alt="Fontes-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 ㅤ
 
-*(Java, AWS,)*
+*(AWS)*
 
 ---
 ### *𝑬𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
