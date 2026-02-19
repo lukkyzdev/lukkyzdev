@@ -37,10 +37,11 @@ Engenheiro de Dados
 - *𝑷𝒓𝒆𝒕𝒆𝒏𝒅𝒐 𝒖𝒕𝒊𝒍𝒊𝒛𝒂𝒓 𝒆 𝒂𝒑𝒓𝒆𝒏𝒅𝒆𝒓 :*
 <div style="display: inline-block;">
      &nbsp;&nbsp; <img align="center" alt="Fontes-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+     &nbsp;&nbsp; <img align="center" alt="Fontes-SpringBoot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
 </div>
 ㅤ
 
-*(AWS)*
+*(AWS, SpringBoot)*
 
 ---
 ### *𝑬𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
