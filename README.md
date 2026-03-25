@@ -1,9 +1,9 @@
 # *𝑶𝒍𝒂, 𝒆𝒖 𝒔𝒐𝒖 𝒐 𝑳𝒖𝒄𝒂𝒔 𝑭𝒐𝒏𝒕𝒆𝒔,*
 *𝒆 𝒔𝒆𝒋𝒂 𝒃𝒆𝒎-𝒗𝒊𝒏𝒅𝒐 𝒂𝒐 𝒎𝒆𝒖 𝒑𝒆𝒓𝒇𝒊𝒍 𝒂𝒒𝒖𝒊 𝒏𝒐 𝑮𝒊𝒕𝑯𝒖𝒃!* 👨‍💻
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/main/images/batmansignal.gif" alt="batmans signal" width="700">
-</div>
+</div> -->
 
 ---
 ### 𝑶 𝒒𝒖𝒆 𝒊𝒓𝒂 𝒆𝒏𝒄𝒐𝒏𝒕𝒓𝒂𝒓 𝒂𝒒𝒖𝒊?
