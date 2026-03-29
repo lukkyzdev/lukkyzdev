@@ -43,6 +43,7 @@ Engenheiro de Dados
 
 *(AWS, SpringBoot)*
 
+<!--
 ---
 ### *𝑬𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒄𝒂𝒔 𝒅𝒐 𝑮𝒊𝒕𝑯𝒖𝒃* 💻
 
@@ -51,7 +52,7 @@ Engenheiro de Dados
   <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=lukkyzdev&theme=gotham&hide_border=false" />
 </div>
 
-<!-- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&theme=gotham&hide_border=false&layout=compact" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkyzdev&theme=gotham&hide_border=false&layout=compact" />
 </p> -->
 
 ---
