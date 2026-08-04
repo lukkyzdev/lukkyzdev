@@ -11,7 +11,7 @@
 da minha carreira e trajetória com dados!
 
 ### 𝑺𝒐𝒃𝒓𝒆 𝑴𝒊𝒎 👤 
-> Atualmente tenho 19 anos, estou no 3º semestre cursando faculdade em ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo facilidade de trabalhar em equipe, além de ter um bom planejamento e raciocínio em situações que exigem atenção, sou bastante ágil em tecnologias e atento a atualizações.
+> Atualmente tenho 19 anos, estou no 4º semestre cursando faculdade em ADS (Análise e Desenvolvimento de Sistemas), e sou natural de Americana-SP. Sou um cara ambivertido, sempre aberto a conversas e discussões, bastante ambicioso, dedicado e empático, porém tem seus momentos de concentração sozinho no canto dele. Possuo facilidade de trabalhar em equipe, além de ter um bom planejamento e raciocínio em situações que exigem atenção, sou bastante ágil em tecnologias e atento a atualizações.
 
 - ✅ *𝑶𝒃𝒋𝒆𝒕𝒊𝒗𝒐 𝑷𝒓𝒐𝒇𝒊𝒔𝒔𝒊𝒐𝒏𝒂𝒍 -*
 Engenheiro de Dados
