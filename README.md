@@ -85,7 +85,7 @@
 <br><br>
 
 <div align="left">
-  <a href="https://api.visitorbadge.io/api/VisitorHit?user=lukkyzdev&repo=lukkyzdev&countColor=%2F333333">
-    <img src="https://api.visitorbadge.io/api/VisitorHit?user=lukkyzdev&repo=lukkyzdev&countColor=%2F333333" alt="Visitor Badge" />
+  <a href="https://api.visitorbadge.io/api/VisitorHit?user=lukkyzdev&repo=lukkyzdev&countColor=%23000000">
+    <img src="https://api.visitorbadge.io/api/VisitorHit?user=lukkyzdev&repo=lukkyzdev&countColor=%23000000" alt="Visitor Badge" />
   </a>
 </div>
