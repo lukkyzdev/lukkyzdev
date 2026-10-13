@@ -79,7 +79,7 @@
 <br>
 
 <div align="left">
-  <img alt="Animação de commits no GitHub" src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake-dark.svg" style="max-width: 100%;" />
+  <img alt="Animação de commits no GitHub" src="https://raw.githubusercontent.com/lukkyzdev/lukkyzdev/output/github-contribution-grid-snake-dark.svg?v=1" style="max-width: 100%;" />
 </div>
 
 <br><br>
