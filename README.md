@@ -14,7 +14,7 @@
     <td width="55%" valign="top">
       <h3>⚫ Perfil & Visão</h3>
       <p>Estudante do 4º semestre de <b>Análise e Desenvolvimento de Sistemas (ADS)</b>.</p>
-      <p>Possuo facilidade para trabalhar em equipa e grande capacidade de concentração para resolver problemas lógicos. O meu objetivo é aplicar raciocínio analítico para transformar dados brutos em soluções práticas, eficientes e de alto valor.</p>
+      <p>Possuo facilidade para trabalhar em equipe e grande capacidade de concentração para resolver problemas lógicos. O meu objetivo é aplicar raciocínio analítico para transformar dados brutos em soluções práticas, eficientes e de alto valor.</p>
       <p>Busco ativamente a minha primeira oportunidade profissional na área de Tecnologia, com foco absoluto no setor de <b>Dados</b>.</p>
     </td>
     <td width="45%" valign="top">
