@@ -1,10 +1,11 @@
 <div align="center">
   <h1><b>Lucas Fontes</b></h1>
-  <p><b>Análise de Dados | Python | SQL | MySQL</b></p>
+  <p><b>Cloud Computing | Infraestrutura | DevOps | Python & SQL</b></p>
   
   <br>
   
-  <a href="https://www.linkedin.com/in/lucas-fontes-28647933b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="mailto:lucasfds995@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/lucas-fontes-28647933b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:lucasfds995@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 <br>
@@ -14,17 +15,18 @@
     <td width="55%" valign="top">
       <h3>⚫ Perfil & Visão</h3>
       <p>Estudante do 4º semestre de <b>Análise e Desenvolvimento de Sistemas (ADS)</b>.</p>
-      <p>Possuo facilidade para trabalhar em equipe e grande capacidade de concentração para resolver problemas lógicos. O meu objetivo é aplicar raciocínio analítico para transformar dados brutos em soluções práticas, eficientes e de alto valor.</p>
-      <p>Busco ativamente a minha primeira oportunidade profissional na área de Tecnologia, com foco absoluto no setor de <b>Dados</b>.</p>
+      <p>Possuo facilidade para trabalhar em equipe e uma base lógica sólida. O meu objetivo é aplicar esse raciocínio para construir, automatizar e manter sistemas operando com eficiência e escalabilidade na nuvem.</p>
+      <p>Busco ativamente a minha primeira oportunidade profissional na área de Tecnologia, com foco em <b>Cloud, Infraestrutura ou DevOps</b>.</p>
     </td>
     <td width="45%" valign="top">
       <h3>💻 Hard Skills & Tecnologias</h3>
       <ul>
-        <li><b>Linguagem Principal:</b> Python (Automação, lógica e análise)</li>
-        <li><b>Bibliotecas & Dados:</b> Pandas, Manipulação e Tratamento</li>
-        <li><b>Banco de Dados:</b> MySQL, Consultas e Modelagem SQL</li>
-        <li><b>Ferramentas:</b> Git, GitHub, Noções de AWS</li>
-        <li><b>Idiomas:</b> Inglês técnico em constante aprimoramento</li>
+        <li><b>Infraestrutura & Nuvem:</b> Linux, Computação em Nuvem (AWS / Azure)</li>
+        <li><b>Automação & DevOps:</b> Integração e Entrega Contínuas (CI/CD), Jenkins</li>
+        <li><b>Desenvolvimento Base:</b> Python (Scripts de automação), Java</li>
+        <li><b>Banco de Dados:</b> MySQL, Consultas SQL</li>
+        <li><b>Versionamento:</b> Git, GitHub</li>
+        <li><b>Idiomas:</b> Inglês Intermediário</li>
       </ul>
     </td>
   </tr>
@@ -35,10 +37,10 @@
 <table width="100%" align="center">
   <tr>
     <td width="100%" valign="top">
-      <h3>🎯 O que estou a construir e estudar agora?</h3>
+      <h3>🎯 O que estou construindo e estudando agora?</h3>
       <ul>
-        <li><b>Desenvolvimento Prático:</b> Criação contínua de projetos autónomos e repositórios focados em manipulação de dados, automações em Python e consultas estruturadas.</li>
-        <li><b>Evolução Constante:</b> Foco diário no aprimoramento da lógica de programação e na leitura de documentações técnicas em inglês para atuar com alto desempenho.</li>
+        <li><b>Projetos em Nuvem:</b> Provisionamento de servidores Linux virtuais (EC2) e criação de pipelines de CI/CD utilizando Jenkins.</li>
+        <li><b>Evolução Constante:</b> Transição da base de desenvolvimento de software (ADS) para práticas de automação de infraestrutura, com foco em ler documentações originais para resolver problemas reais de deploy.</li>
       </ul>
     </td>
   </tr>
@@ -51,25 +53,22 @@
     <td width="100%" align="left">
       <h3>🛠️ Ecossistema de Trabalho</h3>
       <p>
+        <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       </p>
     </td>
   </tr>
 </table>
 
-
-
 ㅤ
 ㅤ
 
 ㅤ
 ㅤ
-
 
 <br>
 
